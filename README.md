@@ -1,9 +1,7 @@
-# Im Cloudy
+<h1 align="center">Im Cloudy</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudydaking&label=Profile%20views&color=0e75b6&style=flat" alt="cloudydaking" /> </p>
 
 <h3 align="center">A software engineer</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudydaking&label=Profile%20views&color=0e75b6&style=flat" alt="cloudydaking" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
